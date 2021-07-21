@@ -23,28 +23,36 @@ netv22
 ```text
 607026961
 ```
+
+{% hint style="info" %}
+[https://qm.qq.com/cgi-bin/qm/qr?k=sHbwT8DTZXbOMUwOWMV4lrireRT77rmH&jump\_from=webapi](https://qm.qq.com/cgi-bin/qm/qr?k=sHbwT8DTZXbOMUwOWMV4lrireRT77rmH&jump_from=webapi)
+{% endhint %}
 {% endtab %}
 
 {% tab title="微博" %}
 微博地址
 
-```text
-https://weibo.com/netv2
-```
+{% hint style="info" %}
+[https://weibo.com/netv2](https://weibo.com/netv2)
+{% endhint %}
 {% endtab %}
 
 {% tab title="推特" %}
 推特号
 
-```text
-netv2top
-```
+{% hint style="info" %}
+[https://twitter.com/netv2top](https://twitter.com/netv2top)
+{% endhint %}
 
 {% embed url="https://twitter.com/netv2top" %}
 {% endtab %}
 
 {% tab title="telegram电报" %}
 telegram 群组
+
+{% hint style="info" %}
+[https://t.me/joinchat/sZ8Dm\_bQeGQzMGVl](https://t.me/joinchat/sZ8Dm_bQeGQzMGVl)
+{% endhint %}
 
 {% embed url="https://t.me/joinchat/sZ8Dm\_bQeGQzMGVl" %}
 {% endtab %}
