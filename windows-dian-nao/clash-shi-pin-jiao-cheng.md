@@ -24,7 +24,7 @@
 
 ### 2. 视频教程（视频为安装版，最新提供的软件为绿色版解压即可使用）
 
-{% embed url="https://pan.ututools.com/onedrive/04\_NETV2/clashforwindows.mp4" %}
+{% embed url="https://pan.ututools.com/onedrivepublic/04\_NETV2/clashforwindows.mp4" %}
 
 
 

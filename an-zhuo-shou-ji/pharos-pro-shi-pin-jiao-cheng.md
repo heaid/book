@@ -24,7 +24,7 @@ dcb0628a-9b87-4184-a8e9-de2272b68129
 
 ### 3. 激活软件后，请看软件使用视频教程
 
-{% embed url="https://pan.ututools.com/onedrive/04\_NETV2/NETV2PHARO.mp4" %}
+{% embed url="https://pan.ututools.com/onedrivepublic/04\_NETV2/NETV2PHARO.mp4" %}
 
 
 

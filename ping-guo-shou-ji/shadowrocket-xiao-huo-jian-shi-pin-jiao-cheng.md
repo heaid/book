@@ -34,13 +34,13 @@ Dd667788
 {% tab title="IOS14系统 视频教程" %}
 ### IOS14系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://pan.ututools.com/onedrive/04\_NETV2/NETV2IOS14.mp4" %}
+{% embed url="https://pan.ututools.com/onedrivepublic/04\_NETV2/NETV2IOS14.mp4" %}
 {% endtab %}
 
 {% tab title="IOS13系统 视频教程" %}
 ### IOS13系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://pan.ututools.com/onedrive/04\_NETV2/NETV2IOS13.mp4" %}
+{% embed url="https://pan.ututools.com/onedrivepublic/04\_NETV2/NETV2IOS13.mp4" %}
 {% endtab %}
 {% endtabs %}
 
@@ -48,7 +48,7 @@ Dd667788
 
 ### 软件使用视频教程（视频有语音讲解）
 
-{% embed url="https://pan.ututools.com/onedrive/04\_NETV2/shadowrocket.mp4" %}
+{% embed url="https://pan.ututools.com/onedrivepublic/04\_NETV2/shadowrocket.mp4" %}
 
 
 
