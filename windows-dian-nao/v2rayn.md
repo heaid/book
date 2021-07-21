@@ -4,6 +4,10 @@ description: 优先推荐使用clash软件
 
 # 电脑V2rayN图文教程
 
+{% hint style="info" %}
+先自行尝试安装使用，如果实在操作不了，请回到官网求助客服
+{% endhint %}
+
 ## 软件下载地址
 
 ### 电脑系统应为Windows 7及以上
