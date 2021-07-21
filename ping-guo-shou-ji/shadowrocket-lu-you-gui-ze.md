@@ -12,7 +12,7 @@
 * 代理：默认代理其余的所有境外网站
 * 包含广告过滤
 
-规则地址：[https://pan.ututools.com/onedrive/03\_%E8%B5%84%E6%96%99/netv2.top.conf](https://pan.ututools.com/onedrive/03_%E8%B5%84%E6%96%99/netv2.top.conf)
+规则地址：[https://pan.ututools.com/onedrivepublic/04\_NETV2/netv2.top.conf](https://pan.ututools.com/onedrivepublic/04_NETV2/netv2.top.conf)
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
