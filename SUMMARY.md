@@ -1,7 +1,7 @@
 # Table of contents
 
 * [NETV2使用文档](README.md)
-* [防失联](fang-shi-lian.md)
+* [联系客服](fang-shi-lian.md)
 
 ## 安卓手机
 
