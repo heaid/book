@@ -14,11 +14,11 @@ description: 推荐使用
 {% tab title="64位电脑" %}
 [下载地址1](https://airnet.lanzoui.com/i72RGrhu1fa)
 
-[下载地址2](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/CLASH/Clash.for.Windows-0.13.8-64-Netv2.7z)
+[下载地址2](https://abcabc.cyou/s/f7cg9n)
 {% endtab %}
 
 {% tab title="32位电脑" %}
-[下载地址1](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/CLASH/Clash.for.Windows-0.13.7-32%E4%BD%8D-win.7z)
+[下载地址1](https://abcabc.cyou/s/gsm3t3)
 
 [下载地址2](https://airnet.lanzoui.com/i7Ik8juqmif)
 {% endtab %}

@@ -2,11 +2,11 @@
 
 ## 软件下载地址
 
-#### Ubuntu电脑系统应为Ubuntu 18及以上
+### Ubuntu电脑系统应为Ubuntu 18及以上
 
 #### [软件下载地址1](https://airnet.lanzous.com/iPyZIoi6xsj)
 
-#### [软件下载地址2](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/TrojanQT5/Trojan-Qt5-Linux.AppImage)
+#### [软件下载地址2](https://abcabc.cyou/s/jxcb6s)
 
 ## Trojan-QT5软件图文教程\(教程系统为Ubuntu 20\)
 
