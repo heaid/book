@@ -10,7 +10,5 @@
 
 ## V2rayNG软件视频教程
 
-{% embed url="https://pan.ututools.com/onedrivepublic/04\_NETV2/v2rayng.mp4" %}
-
-
+{% embed url="https://abcabc.cyou/s/3tlvqa" %}
 

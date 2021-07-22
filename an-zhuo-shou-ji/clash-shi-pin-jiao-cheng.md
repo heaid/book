@@ -20,7 +20,5 @@
 
 ## Clash软件视频教程
 
-{% embed url="https://pan.ututools.com/onedrivepublic/04\_NETV2/clash.mp4" %}
-
-
+{% embed url="https://abcabc.cyou/s/m1k7rt" %}
 
