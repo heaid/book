@@ -14,11 +14,11 @@ description: 推荐使用
 {% tab title="64位电脑" %}
 [下载地址1](https://airnet.lanzoui.com/i72RGrhu1fa)
 
-[下载地址2](https://abcabc.cyou/s/f7cg9n)
+[下载地址2](https://abcabc.cyou/s/fndfmq)
 {% endtab %}
 
 {% tab title="32位电脑" %}
-[下载地址1](https://abcabc.cyou/s/gsm3t3)
+[下载地址1](https://abcabc.cyou/s/5217ce)
 
 [下载地址2](https://airnet.lanzoui.com/i7Ik8juqmif)
 {% endtab %}

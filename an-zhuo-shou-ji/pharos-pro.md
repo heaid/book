@@ -8,7 +8,7 @@ description: 优先推荐使用clash
 
 ### 系统应为安卓7.0以上（部分安卓机型闪退，请使用Clash）
 
-> [下载地址1](https://abcabc.cyou/s/ji0emu)
+> [下载地址1](https://abcabc.cyou/s/mz6q5d)
 >
 > [下载地址2](https://airnet.lanzoui.com/ixbxYq8k1za)
 

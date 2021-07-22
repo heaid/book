@@ -8,7 +8,7 @@
 
 ### 电脑系统应为macOS 10.13.0 及以上
 
-> [下载地址1](https://abcabc.cyou/s/651nfv)
+> [下载地址1](https://abcabc.cyou/s/2dmij6)
 >
 > [下载地址2](https://airnet.lanzoui.com/irt92q8ke8b)
 

@@ -6,7 +6,7 @@
 
 #### [软件下载地址1](https://airnet.lanzous.com/iPyZIoi6xsj)
 
-#### [软件下载地址2](https://abcabc.cyou/s/jxcb6s)
+#### [软件下载地址2](https://abcabc.cyou/s/njmqtl)
 
 ## Trojan-QT5软件图文教程\(教程系统为Ubuntu 20\)
 

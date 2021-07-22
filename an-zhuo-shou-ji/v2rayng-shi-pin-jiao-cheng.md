@@ -4,7 +4,7 @@
 
 #### 系统应为安卓7.0以上（版本1用不了请用版本2，如果安装有问题请联系客服解决）
 
-> [下载地址1](https://abcabc.cyou/s/k6doco)
+> [下载地址1](https://abcabc.cyou/s/0ivi1f)
 >
 > [下载地址2](https://airnet.lanzoui.com/iIlE7okx4wd)
 

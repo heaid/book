@@ -34,13 +34,13 @@ Dd667788
 {% tab title="IOS14系统 视频教程" %}
 ### IOS14系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://abcabc.cyou/s/isrsx8" %}
+{% embed url="https://abcabc.cyou/s/8r05j1" %}
 {% endtab %}
 
 {% tab title="IOS13系统 视频教程" %}
 ### IOS13系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://abcabc.cyou/s/isrsx8" %}
+{% embed url="https://abcabc.cyou/s/p415hb" %}
 {% endtab %}
 {% endtabs %}
 
@@ -48,5 +48,5 @@ Dd667788
 
 ### 软件使用视频教程（视频有语音讲解）
 
-{% embed url="https://abcabc.cyou/s/monldt" %}
+{% embed url="https://abcabc.cyou/s/47qmod" %}
 
