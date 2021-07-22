@@ -2,7 +2,7 @@
 
 为用安卓手机的用户提供一点点便利性
 
-下载地址：[网盘](https://pan.ututools.com/onedrivepublic/%E8%BD%AF%E4%BB%B6_Android/Android_%E5%9B%BD%E5%A4%96/)
+下载地址：[网盘](https://abcabc.cyou/#/1/main/%E8%BD%AF%E4%BB%B6_Android/Android_%E5%9B%BD%E5%A4%96)
 
 > Chrome 谷歌浏览器
 >
