@@ -6,7 +6,7 @@ description: Clash X Pro
 
 ## 软件下载地址
 
-#### 电脑系统应为macOS 10.13.0 及以上
+### 电脑系统应为macOS 10.13.0 及以上
 
 > [下载地址1](https://abcabc.cyou/s/651nfv)
 >
