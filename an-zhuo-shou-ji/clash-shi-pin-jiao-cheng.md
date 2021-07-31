@@ -20,5 +20,7 @@
 
 ## Clash软件视频教程
 
-{% embed url="https://abcabc.cyou/s/m1k7rt" %}
+{% embed url="https://abcabc.cyou/s/9hqo25" %}
+
+
 

@@ -14,5 +14,7 @@ description: Clash X Pro
 
 ## ClashX 软件视频教程
 
-{% embed url="https://abcabc.cyou/s/bzqzvt" %}
+{% embed url="https://abcabc.cyou/s/v60w62" %}
+
+
 

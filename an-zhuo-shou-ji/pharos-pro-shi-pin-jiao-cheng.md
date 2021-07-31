@@ -24,5 +24,7 @@ dcb0628a-9b87-4184-a8e9-de2272b68129
 
 ### 3. 激活软件后，请看软件使用视频教程
 
-{% embed url="https://abcabc.cyou/s/3347i9" %}
+{% embed url="https://abcabc.cyou/s/30ceq3" %}
+
+
 

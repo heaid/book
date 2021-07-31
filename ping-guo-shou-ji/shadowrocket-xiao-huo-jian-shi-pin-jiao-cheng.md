@@ -34,7 +34,7 @@ Dd667788
 {% tab title="IOS14系统 视频教程" %}
 ### IOS14系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://abcabc.cyou/s/8r05j1" %}
+{% embed url="https://abcabc.cyou/directlink/1/Cross%20Firewalls/NETV2video/NETV2IOS14.mp4" %}
 {% endtab %}
 
 {% tab title="IOS13系统 视频教程" %}
