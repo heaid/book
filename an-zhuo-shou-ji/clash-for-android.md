@@ -92,5 +92,5 @@ description: Clash for Android
 
 ### 11.点击主界面的配置，配置文件右上角有三个点，呼出菜单
 
-![&#x70B9;&#x51FB;&#x53F3;&#x4E0A;&#x89D2;&#xFF0C;&#x7136;&#x540E;&#x70B9;&#x51FB;&#x66F4;&#x65B0;&#xFF08;&#x6700;&#x597D;&#x5148;&#x5173;&#x95ED;&#x4EE3;&#x7406;&#xFF09;](../.gitbook/assets/clash10.png)
+![](../.gitbook/assets/d427bee117c3f775ee17461ecfc95e17.gif)
 
