@@ -38,11 +38,7 @@ description: Clash for Android
 注意：推荐使用自带浏览器，不要在QQ内，微信内，百度内打开否则无法跳转，
 {% endhint %}
 
-![](../.gitbook/assets/90792c3c3cb0c823bf3a0406e3ac7fbf.gif)
-
-### 2.1.2 点击导入到clash后，会自动跳转到小猫咪内，自动更新设置为15，最后点击右上角的保存按钮
-
-![&#x540D;&#x79F0;&#x65E0;&#x6240;&#x8C13;&#xFF0C;&#x81EA;&#x52A8;&#x66F4;&#x65B0;&#x8BBE;&#x7F6E;&#x4E3A;15&#xFF0C;&#x70B9;&#x51FB;&#x53F3;&#x4E0A;&#x89D2;&#x4FDD;&#x5B58;](../.gitbook/assets/clash3.jpeg)
+![](../.gitbook/assets/b25dcc0ac3287ce051a5f6f31f64137f.gif)
 {% endtab %}
 
 {% tab title="手动导入" %}
