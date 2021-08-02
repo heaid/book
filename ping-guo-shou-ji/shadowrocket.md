@@ -82,7 +82,7 @@ Dd667788
 
 ### 
 
-![&#x53EF;&#x4EE5;&#x81EA;&#x52A8;&#x5BFC;&#x5165;&#x4E5F;&#x53EF;&#x4EE5;&#x624B;&#x52A8;&#x5BFC;&#x5165;](../.gitbook/assets/img_39616078e7ce-1.jpeg)
+![](../.gitbook/assets/4a207c697cc7134827cdeba54ad6c0a7.gif)
 
 ### 2.1.2 导入后会自动跳转到小火箭shadowrocket内（注意：导入时，请保证右上角的连接按钮是关闭状态，如果导入后没显示地区节点，请后台强行关闭软件后重新打开软件就会显示了）
 
