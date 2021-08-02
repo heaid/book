@@ -118,7 +118,7 @@ Dd667788
 {% tab title="手动更新" %}
 ### 主界面，滑动标签，点击更新。
 
-![&#x5B9A;&#x671F;&#x66F4;&#x65B0;&#x8BA2;&#x9605;&#x4F1A;&#x628A;&#x6700;&#x65B0;&#x7684;&#x8282;&#x70B9;&#x540C;&#x6B65;&#x5230;&#x8F6F;&#x4EF6;&#x5185;&#xFF0C;&#x5EFA;&#x8BAE;&#x5B9A;&#x671F;&#x6ED1;&#x52A8;&#x66F4;&#x65B0;](../.gitbook/assets/dmf7ti.jpg)
+![](../.gitbook/assets/ded695f75dedf55561e32d73c919e3a4.gif)
 {% endtab %}
 
 {% tab title="设置自动更新" %}
