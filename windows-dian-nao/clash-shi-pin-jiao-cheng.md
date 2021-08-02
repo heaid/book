@@ -2,19 +2,13 @@
 
 ## 软件下载地址
 
-#### 电脑系统应为Windows 7及以上（如果不知道自己电脑是64位还是32位，请下载64，如果不能用请下载32）
+### 电脑系统应为Windows 7及以上
 
 {% tabs %}
-{% tab title="64位电脑" %}
-[下载地址1](https://airnet.lanzoui.com/i72RGrhu1fa)
+{% tab title="下载地址" %}
+[下载地址1](https://airnet.lanzoui.com/i8mkBs5dzwd)
 
-[下载地址2](https://abcabc.cyou/s/fndfmq)
-{% endtab %}
-
-{% tab title="32位电脑" %}
-[下载地址1](https://abcabc.cyou/s/5217ce)
-
-[下载地址2](https://airnet.lanzoui.com/i7Ik8juqmif)
+[下载地址2](https://abcabc.cyou/s/c3e6qh)
 {% endtab %}
 {% endtabs %}
 
