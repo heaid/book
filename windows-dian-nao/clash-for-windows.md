@@ -26,7 +26,7 @@ description: 推荐使用
 
 ### 2. 主界面展示（正常使用只操作【常规，代理，配置】，这三个选项即可）
 
-![](../.gitbook/assets/sou-gou-jie-tu-20210301081234.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 ### 3. 导入订阅。分为一键导入和手动导入。
 
