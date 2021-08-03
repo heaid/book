@@ -9,8 +9,6 @@
 * [安卓Clash视频教程](an-zhuo-shou-ji/clash-shi-pin-jiao-cheng.md)
 * [安卓V2rayNG 图文教程](an-zhuo-shou-ji/v2rayng-shi-yong-jiao-cheng.md)
 * [安卓V2rayNG视频教程](an-zhuo-shou-ji/v2rayng-shi-pin-jiao-cheng.md)
-* [安卓Pharos Pro图文教程](an-zhuo-shou-ji/pharos-pro.md)
-* [安卓Pharos Pro视频教程](an-zhuo-shou-ji/pharos-pro-shi-pin-jiao-cheng.md)
 * [安卓安装谷歌套件](an-zhuo-shou-ji/an-zhuo-an-zhuang-gu-ge-tao-jian.md)
 * [安卓部分国外APP下载](an-zhuo-shou-ji/an-zhuo-bu-fen-guo-wai-app-xia-zai.md)
 

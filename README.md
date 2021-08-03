@@ -21,10 +21,6 @@ description: 强烈建议用户添加防失联的社交媒体
 {% page-ref page="an-zhuo-shou-ji/v2rayng-shi-yong-jiao-cheng.md" %}
 
 {% page-ref page="an-zhuo-shou-ji/v2rayng-shi-pin-jiao-cheng.md" %}
-
-{% page-ref page="an-zhuo-shou-ji/pharos-pro.md" %}
-
-{% page-ref page="an-zhuo-shou-ji/pharos-pro-shi-pin-jiao-cheng.md" %}
 {% endtab %}
 
 {% tab title="苹果手机" %}
