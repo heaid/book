@@ -1,3 +1,7 @@
+---
+description: 本教程适用iphone 和ipad
+---
+
 # 苹果Shadowrocket小火箭视频教程
 
 ## 下载软件教程
