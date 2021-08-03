@@ -14,7 +14,7 @@
 * [安卓安装谷歌套件](an-zhuo-shou-ji/an-zhuo-an-zhuang-gu-ge-tao-jian.md)
 * [安卓部分国外APP下载](an-zhuo-shou-ji/an-zhuo-bu-fen-guo-wai-app-xia-zai.md)
 
-## 苹果手机
+## 苹果手机/平板 <a id="ping-guo-shou-ji"></a>
 
 * [苹果Shadowrocket小火箭图文教程](ping-guo-shou-ji/shadowrocket.md)
 * [苹果Shadowrocket小火箭视频教程](ping-guo-shou-ji/shadowrocket-xiao-huo-jian-shi-pin-jiao-cheng.md)
