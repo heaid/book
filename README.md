@@ -35,6 +35,8 @@ description: 强烈建议用户添加防失联的社交媒体
 {% page-ref page="windows-dian-nao/clash-shi-pin-jiao-cheng.md" %}
 
 {% page-ref page="windows-dian-nao/v2rayn.md" %}
+
+{% page-ref page="windows-dian-nao/dian-nao-netch-you-xi-jia-su-gong-ju.md" %}
 {% endtab %}
 
 {% tab title="Mac电脑" %}
