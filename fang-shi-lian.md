@@ -18,7 +18,7 @@ netv22
 {% tab title="QQ" %}
 ### QQ号可能随时会被封建议加群，如果QQ被封可以通过群找到新的QQ管理员
 
-#### 防失联Q群
+#### 防失联Q群（群密码123）
 
 ```text
 607026961
@@ -55,22 +55,6 @@ telegram 群组
 {% endhint %}
 
 {% embed url="https://t.me/joinchat/sZ8Dm\_bQeGQzMGVl" %}
-{% endtab %}
-
-{% tab title="小红书" %}
-小红书号
-
-```text
-netv2top
-```
-{% endtab %}
-
-{% tab title="instagram" %}
-instagram号
-
-```text
-netv2top
-```
 {% endtab %}
 {% endtabs %}
 
