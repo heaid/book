@@ -23,7 +23,7 @@ description: 本教程适用iphone 和ipad
 #### Apple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
 
 ```text
-storeyz@foxmail.com
+5ay9fn@sina.com
 ```
 
 #### Apple ID 密码（登录时如果提示密码错误，请注意密码有大小写）
