@@ -1,5 +1,5 @@
 ---
-description: 推荐使用
+description: Clash for Windows
 ---
 
 # 电脑Clash图文教程\[推荐使用\]
