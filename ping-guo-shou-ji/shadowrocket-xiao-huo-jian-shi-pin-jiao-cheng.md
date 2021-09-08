@@ -17,10 +17,12 @@ description: 本教程适用iphone 和ipad
 ### 美区苹果ID账号密码
 
 {% hint style="info" %}
-如果提示输入密保，说明你选错了，请选择其它选项，不升级（按照下方教程登录）
+如果提示输入密保，说明你选错了，返回上一步选其它选项，点不升级（按照下方教程登录）
 {% endhint %}
 
-#### Apple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
+{% tabs %}
+{% tab title="Apple ID 账号A" %}
+#### ple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
 
 ```text
 5ay9fn@sina.com
@@ -31,6 +33,22 @@ description: 本教程适用iphone 和ipad
 ```text
 Dd667788
 ```
+{% endtab %}
+
+{% tab title="Apple ID 账号B" %}
+#### Apple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
+
+```text
+shadowrocket2@qq.com
+```
+
+#### Apple ID 密码（登录时如果提示密码错误，请注意密码有大小写）
+
+```text
+Dd667788
+```
+{% endtab %}
+{% endtabs %}
 
 ### IOS14和IOS13以往版本 登录商店位置不同，请参考对应视频
 
