@@ -12,9 +12,9 @@
 * 代理：默认代理其余的所有境外网站
 * 包含广告过滤
 
-规则地址：[https://abcabc.cyou/s/no2ut2](https://abcabc.cyou/s/no2ut2)
+规则地址：[https://abcabc.cyou/s/no2ut2](https://abcabc.cyou/s/8o4klm)
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 ### 使用方法
 
