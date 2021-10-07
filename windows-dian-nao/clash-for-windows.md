@@ -14,7 +14,7 @@ description: Clash for Windows
 {% tab title="下载地址" %}
 [下载地址1](https://airnet.lanzoui.com/i8mkBs5dzwd)
 
-[下载地址2](https://abcabc.cyou/s/c3e6qh)
+[下载地址2](https://flie.netv2.top/s/7qdct3)
 {% endtab %}
 {% endtabs %}
 
