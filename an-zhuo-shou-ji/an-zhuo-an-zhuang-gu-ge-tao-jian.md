@@ -15,7 +15,7 @@
 > * 谷歌商店（google play store）
 >   * 谷歌官方的应用市场。
 
-下载地址：[Go谷歌安装器v4.8.5](https://heaid.top/index.php/go/aHR0cHM6Ly9wYW4udXR1dG9vbHMuY29tL29uZWRyaXZlLzAxXyVFOCVCRCVBRiVFNCVCQiVCNi8xMF8lRTUlOUIlQkQlRTUlQTQlOTYlRTUlQUUlODklRTUlOEQlOTMlRTglQkQlQUYlRTQlQkIlQjYvR28lRTglQjAlQjclRTYlQUQlOEMlRTUlQUUlODklRTglQTMlODUlRTUlOTklQTh2NC44LjUuYXBr)
+下载地址：[Go谷歌安装器v4.8.5](https://flie.netv2.top/s/402tlx)
 
 安装好APP后，主界面点击一键安装即可
 
