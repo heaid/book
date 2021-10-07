@@ -4,9 +4,13 @@
 
 ### Ubuntu电脑系统应为Ubuntu 18及以上
 
-#### [软件下载地址1](https://airnet.lanzoui.com/iPyZIoi6xsj)
+{% tabs %}
+{% tab title="软件下载" %}
+#### [下载地址1](https://airnet.lanzoui.com/iPyZIoi6xsj)
 
-#### 
+#### [下载地址2](https://flie.netv2.top/s/nzbb91)
+{% endtab %}
+{% endtabs %}
 
 ## Trojan-QT5软件图文教程\(教程系统为Ubuntu 20\)
 
