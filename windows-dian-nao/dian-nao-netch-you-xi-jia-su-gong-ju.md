@@ -6,7 +6,13 @@ Netch 是一款运行在 Windows 系统上的开源游戏加速工具，简单�
 
 本站协议完美支持netch。
 
+{% tabs %}
+{% tab title="软件下载" %}
 [下载地址1](https://airnet.lanzoui.com/iMOFAsu4lfi)
+
+[下载地址2](https://flie.netv2.top/s/rlyzen)
+{% endtab %}
+{% endtabs %}
 
 ## 软件图文教程
 
