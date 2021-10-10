@@ -24,7 +24,7 @@
 >
 > Skype 
 >
-> telegram 电报
+> [telegram 电报](https://telegram.org/android)
 >
 > [whatapps官网下载地址 ](https://www.whatsapp.com/android/)
 >
