@@ -2,9 +2,9 @@
 
 为用安卓手机的用户提供一点点便利性
 
-下载地址：[网盘](https://flie.netv2.top/1/main/%E8%BD%AF%E4%BB%B6_Android/Android_%E5%9B%BD%E5%A4%96)
+下载地址：[网盘](https://flie.netv2.top/1/main/%E8%BD%AF%E4%BB%B6\_Android/Android\_%E5%9B%BD%E5%A4%96)载地址
 
-> Chrome 谷歌浏览器
+> Chrome 谷歌浏览器官网下载地址
 >
 > hangout 环聊
 >
@@ -26,7 +26,8 @@
 >
 > telegram 电报
 >
-> whatapps 
+> [whatapps官网下载地址 ](https://www.whatsapp.com/android/)
 >
-> Google voice
-
+> Google voice 
+>
+>
