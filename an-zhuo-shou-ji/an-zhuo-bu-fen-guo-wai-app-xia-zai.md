@@ -2,6 +2,8 @@
 
 为用安卓手机的用户提供一点点便利性
 
+官网下载请挂代理后再下载
+
 > [Chrome 谷歌浏览器官网下载地址](broken-reference)
 >
 > hangout 环聊
