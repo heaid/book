@@ -46,10 +46,8 @@ netv2top
 [https://t.me/joinchat/sZ8Dm_bQeGQzMGVl](https://t.me/joinchat/sZ8Dm_bQeGQzMGVl)
 {% endhint %}
 
+{% embed url="https://t.me/joinchat/sZ8Dm:bQeGQzMGVl" %}
+
 
 {% endtab %}
 {% endtabs %}
-
-telegram 群组
-
-{% embed url="https://t.me/joinchat/sZ8Dm:bQeGQzMGVl" %}
