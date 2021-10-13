@@ -6,27 +6,19 @@
 
 {% tabs %}
 {% tab title="微信" %}
-微信号
-
-```text
-netv22
+```
+netv2top
 ```
 
-![&#x626B;&#x7801;&#x6DFB;&#x52A0;&#x5FAE;&#x4FE1;](.gitbook/assets/a058458e9a53e5000ddd3fa091c5efa%20%283%29.jpg)
+
 {% endtab %}
 
 {% tab title="QQ" %}
-### QQ号可能随时会被封建议加群，如果QQ被封可以通过群找到新的QQ管理员
+#### QQ号可能随时会被封建议加群，如果QQ被封可以通过群找到新的QQ管理员
 
-#### 防失联Q群（群密码123）
+****[**防失联Q群**607026961**（群密码123）**](https://qm.qq.com/cgi-bin/qm/qr?k=sHbwT8DTZXbOMUwOWMV4lrireRT77rmH\&jump_from=webapi)****
 
-```text
-607026961
-```
 
-{% hint style="info" %}
-[https://qm.qq.com/cgi-bin/qm/qr?k=sHbwT8DTZXbOMUwOWMV4lrireRT77rmH&jump\_from=webapi](https://qm.qq.com/cgi-bin/qm/qr?k=sHbwT8DTZXbOMUwOWMV4lrireRT77rmH&jump_from=webapi)
-{% endhint %}
 {% endtab %}
 
 {% tab title="微博" %}
@@ -35,30 +27,29 @@ netv22
 {% hint style="info" %}
 [https://weibo.com/netv2](https://weibo.com/netv2)
 {% endhint %}
+
+
 {% endtab %}
 
 {% tab title="推特" %}
-推特号
-
 {% hint style="info" %}
 [https://twitter.com/netv2top](https://twitter.com/netv2top)
 {% endhint %}
 
 {% embed url="https://twitter.com/netv2top" %}
+
+
 {% endtab %}
 
-{% tab title="telegram电报" %}
-telegram 群组
-
+{% tab title="telegram" %}
 {% hint style="info" %}
-[https://t.me/joinchat/sZ8Dm\_bQeGQzMGVl](https://t.me/joinchat/sZ8Dm_bQeGQzMGVl)
+[https://t.me/joinchat/sZ8Dm_bQeGQzMGVl](https://t.me/joinchat/sZ8Dm_bQeGQzMGVl)
 {% endhint %}
 
-{% embed url="https://t.me/joinchat/sZ8Dm\_bQeGQzMGVl" %}
+
 {% endtab %}
 {% endtabs %}
 
+telegram 群组
 
-
-
-
+{% embed url="https://t.me/joinchat/sZ8Dm:bQeGQzMGVl" %}
