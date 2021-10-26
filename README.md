@@ -4,10 +4,6 @@ description: 强烈建议用户添加防失联的社交媒体
 
 # NETV2使用文档
 
-{% hint style="info" %}
-## 回到官网：[https://netv2.top](https://netv2.top)
-{% endhint %}
-
 ### 教程页面内有软件下载地址
 
 {% tabs %}
@@ -70,6 +66,10 @@ description: 强烈建议用户添加防失联的社交媒体
 {% endtab %}
 
 {% tab title="Linux电脑" %}
+{% content-ref url="linux-xi-tong/clash-for-linux.md" %}
+[clash-for-linux.md](linux-xi-tong/clash-for-linux.md)
+{% endcontent-ref %}
+
 {% content-ref url="linux-xi-tong/trojanqt5-shi-yong-jiao-cheng.md" %}
 [trojanqt5-shi-yong-jiao-cheng.md](linux-xi-tong/trojanqt5-shi-yong-jiao-cheng.md)
 {% endcontent-ref %}
