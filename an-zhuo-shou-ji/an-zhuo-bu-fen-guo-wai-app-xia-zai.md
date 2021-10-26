@@ -14,7 +14,7 @@
 >
 > Facebook messages
 >
-> Instagram 
+> Instagram&#x20;
 >
 > line 连我
 >
@@ -22,14 +22,14 @@
 >
 > Pinterest 缤趣
 >
-> Skype 
+> Skype&#x20;
 >
 > [telegram 电报](https://telegram.org/android)
 >
 > [whatapps官网下载地址 ](https://www.whatsapp.com/android/)
 >
-> Google voice 
+> Google voice&#x20;
 >
 >
 
-如果官网无法直接下载，这里有客服收集的安装包下载地址：[网盘下载地址](https://flie.netv2.top/1/main/%E8%BD%AF%E4%BB%B6\_Android/Android\_%E5%9B%BD%E5%A4%96)
+如果官网无法直接下载，这里有客服收集的安装包下载地址：[网盘下载地址](https://abcabc.cyou/#/1/main/%E8%BD%AF%E4%BB%B6\_Android/Android\_%E5%9B%BD%E5%A4%96)

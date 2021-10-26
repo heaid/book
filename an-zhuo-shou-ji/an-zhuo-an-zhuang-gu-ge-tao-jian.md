@@ -15,7 +15,7 @@
 > * 谷歌商店（google play store）
 >   * 谷歌官方的应用市场。
 
-下载地址：[Go谷歌安装器v4.8.5](https://flie.netv2.top/s/402tlx)
+下载地址：[Go谷歌安装器v4.8.5](https://abcabc.cyou/s/qrbbo8)
 
 安装好APP后，主界面点击一键安装即可
 
@@ -23,5 +23,4 @@
 
 安装完毕谷歌套件后如下图显示。
 
-![](../.gitbook/assets/image%20%2817%29.png)
-
+![](<../.gitbook/assets/image (17).png>)
