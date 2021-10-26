@@ -26,29 +26,33 @@ description: Clash for Android
 
 ### 1.主界面软件
 
-![&#x8F6F;&#x4EF6;&#x4E3B;&#x754C;&#x9762;](../.gitbook/assets/a7kxmr.png)
+![软件主界面](../.gitbook/assets/a7kxmr.png)
 
 ### 2.导入订阅（分为一键导入和手动导入）
 
 {% tabs %}
 {% tab title="一键导入" %}
-### 2.1.1 打开浏览器输入官网地址：[netv2.top](https://netv2.top/) 点击一键订阅，导入到clash for Android。
+### 2.1.1 打开浏览器输入官网地址：[netv2.top](https://netv2.top) 点击一键订阅，导入到clash for Android。
 
 {% hint style="info" %}
 注意：推荐使用自带浏览器，不要在QQ内，微信内，百度内打开否则无法跳转，
 {% endhint %}
 
 ![](../.gitbook/assets/b25dcc0ac3287ce051a5f6f31f64137f.gif)
+
+
 {% endtab %}
 
 {% tab title="手动导入" %}
-### 2.2.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址 <a id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-ding-yue-di-zhi"></a>
+### 2.2.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址 <a href="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di" id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di"></a>
 
-![](../.gitbook/assets/img_20210422_182613.jpg)
+### &#x20;<a href="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di" id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di"></a>
+
+![](../.gitbook/assets/gaitubao\_Flb9rxhI8HmM3nqh9h6oJ6Ca0BpZ.jpg)
 
 ### 2.2.2 打开Clash软件主界面的配置→新配置→Url 来进入下面的界面，手动把订阅链接粘贴到URL里）
 
-![](../.gitbook/assets/clash3.jpeg)
+![](../.gitbook/assets/Screenshot\_2021-10-26-10-50-08-721\_com.github.kr328.clash.foss.png)
 {% endtab %}
 {% endtabs %}
 
@@ -56,15 +60,15 @@ description: Clash for Android
 
 ![](../.gitbook/assets/b25dcc0ac3287ce051a5f6f31f64137f-1-.gif)
 
-### 4.这时主界面已经显示配置文件已激活，点击最上面的已停止按钮，启动后，会弹出代理选项，进入后可以看到服务器节点，\(别用自动选择\)
+### 4.这时主界面已经显示配置文件已激活，点击最上面的已停止按钮，启动后，会弹出代理选项，进入后可以看到服务器节点，(别用自动选择)
 
 ![](../.gitbook/assets/b25dcc0ac3287ce051a5f6f31f64137f-2-.gif)
 
-### 5.连接后，可以打开[www.YouTube.com](https://youtube.com/)测试一下，如果油管可以打开就说明已经成功
+### 5.连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
 
 ### 6.如果需要选择模式，请在主界面点击 （设置），然后点击 （覆写），再点击 （模式）
 
-![&#x6B63;&#x5E38;&#x4F7F;&#x7528;&#x5EFA;&#x8BAE;&#x89C4;&#x5219;&#x6A21;&#x5F0F;](../.gitbook/assets/clash9.jpg)
+![](<../.gitbook/assets/clash9 (1).jpg>)
 
 > 直连模式：全部国内国外走不走节点流量（相当于没开clash）
 >
@@ -77,4 +81,3 @@ description: Clash for Android
 ### 8.点击主界面的配置，配置文件右上角有三个点，呼出菜单
 
 ![](../.gitbook/assets/d427bee117c3f775ee17461ecfc95e17.gif)
-

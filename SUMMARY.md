@@ -36,4 +36,6 @@
 
 ## 网关模式
 
+***
+
 * [Switch 游戏机](switch-you-xi-ji.md)
