@@ -14,41 +14,53 @@
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-21-14-317\_com.v2ray.ang.jpg)
 
-#### 2.点击左上角呼出菜单，进入订阅设置
+### 2.导入订阅
+
+点击左上角呼出菜单，进入订阅设置
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-21-19-487\_com.v2ray.ang.jpg)
 
-### 3.点击右上角 ＋
+点击右上角 ＋
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-21-28-453\_com.v2ray.ang.jpg)
 
-### 4. 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址 <a href="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di" id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di"></a>
+打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-53-24-132\_com.android.chrome.jpg)
 
-### 5.重新回到软件内，把订阅粘贴到地址里，备注随便填，最后右上角对勾保存
+重新回到软件内，把订阅粘贴到地址里，备注随便填，最后右上角对勾保存
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-21-50-366\_com.v2ray.ang.jpg)
 
-### 6.点击返回，回到主界面
+### 3. 更新订阅
+
+点击返回，回到主界面
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-21-57-860\_com.v2ray.ang.jpg)
 
-### 7.回到主界面后，点击右上角三个点，点击更新订阅
+回到主界面后，点击右上角三个点，点击更新订阅
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-23-15-879\_com.v2ray.ang.jpg)
 
-### 8.更新后节点会显示，再次点击右上角，点击测试真连接
+### 4.测试连通性
+
+### 更新后节点会显示，再次点击右上角，点击测试真连接
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-24-01-086\_com.v2ray.ang.jpg)
 
-### 9.选择一个有数值的节点，选中后点击右下角圆圈按钮。启动后会变成绿色
+### 5.选择节点，启动代理
+
+选择一个有数值的节点，选中后点击右下角圆圈按钮。启动后会变成绿色
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-11-17-07-277\_com.v2ray.ang.jpg)
 
-### 10.连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
+### 6.测试连接
 
-### 11.选择模式，主界面点击左上角呼出菜单，点击设置，选择预定义规则。（建议使用绕过大陆地址）
+连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
+
+### 7.选择模式
+
+主界面点击左上角呼出菜单，点击设置，选择预定义规则。（建议使用绕过大陆地址）
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-24-41-043\_com.v2ray.ang.jpg)
 
@@ -56,6 +68,8 @@
 >
 > 绕过大陆地址：属于国内直连，国外自动走节点流量（建议使用）
 
-### 12.定期更新订阅，把最新的节点同步到手机上，（更新时建议先关闭代理，否则可能更新失败）
+### 8.手动更新订阅
+
+定期更新订阅，把最新的节点同步到手机上，（更新时建议先关闭代理，否则可能更新失败）
 
 ![](../.gitbook/assets/screenshot\_2021-04-15-10-22-38-043\_com.v2ray.ang.jpg)
