@@ -32,8 +32,7 @@
 
 ## Linux系统Ubuntu <a href="linux-xi-tong" id="linux-xi-tong"></a>
 
-* [Clash for Linux](linux-xi-tong/clash-for-linux.md)
-* [Linux Trojan-QT5 使用教程](linux-xi-tong/trojanqt5-shi-yong-jiao-cheng.md)
+* [Clash for Linux 使用教程](linux-xi-tong/clash-for-linux-shi-yong-jiao-cheng.md)
 
 ## 网关模式
 

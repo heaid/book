@@ -14,37 +14,38 @@ Netch 是一款运行在 Windows 系统上的开源游戏加速工具，简单�
 {% endtab %}
 {% endtabs %}
 
-## 软件图文教程
+## 图文教程
 
-### 1. 软件下载后请全部解压到磁盘内（建议D盘），如果没有解压软件，请提前安装解压软件（比如7z，好压，360压缩等）
+### 1. 解压软件
 
-![](../.gitbook/assets/image%20%2831%29.png)
+软件下载后请全部解压到磁盘内（建议D盘），如果没有解压软件，请提前安装解压软件（比如7z，好压，360压缩等）
+
+![](<../.gitbook/assets/image (31).png>)
 
 ### 2. 导入订阅，打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](<../.gitbook/assets/image (36).png>)
 
 ### 3. 订阅，管理订阅链接
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](<../.gitbook/assets/image (38).png>)
 
 ### 4. 把链接粘贴进去，备注随意起名
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](<../.gitbook/assets/image (35).png>)
 
 ### 5. 点击订阅，更新服务器（这里建议定期更新下，把最新的服务器更新到软件上）
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](<../.gitbook/assets/image (28).png>)
 
 ### 6. 点击右侧闪电按钮可以测试延迟数值
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](<../.gitbook/assets/image (41).png>)
 
 ### 7. 模式选择绕过局域网与大陆。最后点击启动。
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](<../.gitbook/assets/image (37).png>)
 
 ### 8. 如果第7步的模式无法代理你当前的软件或者游戏可以试试模式选择全局
 
-![](../.gitbook/assets/image%20%2840%29.png)
-
+![](<../.gitbook/assets/image (40).png>)
