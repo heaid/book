@@ -1,4 +1,4 @@
-# Clash for Linux
+# Clash for Linux使用教程
 
 ### 软件下载
 

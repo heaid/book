@@ -66,8 +66,8 @@ description: 强烈建议用户添加防失联的社交媒体
 {% endtab %}
 
 {% tab title="Linux电脑" %}
-{% content-ref url="linux-xi-tong/clash-for-linux-shi-yong-jiao-cheng.md" %}
-[clash-for-linux-shi-yong-jiao-cheng.md](linux-xi-tong/clash-for-linux-shi-yong-jiao-cheng.md)
+{% content-ref url="linux-xi-tong/clash-for-linux.md" %}
+[clash-for-linux.md](linux-xi-tong/clash-for-linux.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

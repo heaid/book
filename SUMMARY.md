@@ -1,7 +1,6 @@
 # Table of contents
 
 * [NETV2使用文档](README.md)
-* [联系客服](fang-shi-lian.md)
 
 ## 安卓手机
 
@@ -32,7 +31,7 @@
 
 ## Linux系统Ubuntu <a href="linux-xi-tong" id="linux-xi-tong"></a>
 
-* [Clash for Linux 使用教程](linux-xi-tong/clash-for-linux-shi-yong-jiao-cheng.md)
+* [Clash for Linux使用教程](linux-xi-tong/clash-for-linux.md)
 
 ## 网关模式
 
