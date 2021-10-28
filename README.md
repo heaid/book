@@ -4,7 +4,13 @@ description: 强烈建议用户添加防失联的社交媒体
 
 # NETV2使用文档
 
-### 教程页面内有软件下载地址
+> 请收藏永久发布地址：
+>
+> [https://netv2.github.io](./#jiao-cheng-ye-mian-nei-you-ruan-di-zhi-jian-xia-zai-di-zhi)
+>
+> [https://vpn-cca.pages.dev](https://vpn-cca.pages.dev)
+
+### 教程页面内有软地址件下载地址
 
 {% tabs %}
 {% tab title="安卓手机" %}
