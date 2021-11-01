@@ -8,7 +8,7 @@
 {% tab title="下载地址" %}
 [下载地址1](https://airnet.lanzoui.com/i8mkBs5dzwd)
 
-[下载地址2](https://flie.netv2.top/s/7qdct3)
+[下载地址2](http://110.42.178.197:8001/alibaba/Cross%20Firewalls/CLASH/Clash.for.Windows-0.17.0-ia32-netv2.7z)
 {% endtab %}
 {% endtabs %}
 

@@ -14,7 +14,7 @@ windows 7 系统需要提前安装好[Microsoft .NET Framework 4.6.2](https://ww
 
 > [下载地址1](https://airnet.lanzoui.com/iCjN2j4le4h)
 >
-> [下载地址2](https://flie.netv2.top/s/ebsgqj)
+> [下载地址2](http://110.42.178.197:8001/alibaba/Cross%20Firewalls/V2rayN/v2rayN-Core%20\(3.27\).zip)
 
 ### 图文教程
 
