@@ -4,7 +4,7 @@
 
 [下载地址](https://flie.netv2.top/onedrivepublic/Cross%20Firewalls/CLASH/Clash.for.Windows-0.17.0-x64-linux-netv2.tar.gz)1
 
-[下载地址2](http://110.42.178.197:8001/alibaba/Cross%20Firewalls/CLASH/Clash.for.Windows-0.17.0-x64-linux-netv2.tar.gz)
+[下载地址2](https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/CLASH/Clash.for.Windows-0.17.0-x64-linux-netv2.tar.gz)
 
 {% hint style="info" %}
 注意：本篇文档是未汉化前制作的，请自行对应操作步骤。

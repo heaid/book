@@ -15,7 +15,7 @@
 > * 谷歌商店（google play store）
 >   * 谷歌官方的应用市场。
 
-下载地址：[Go谷歌安装器v4.8.5](http://110.42.178.197:8001/alibaba/%E8%BD%AF%E4%BB%B6\_Android/Android\_%E5%9B%BD%E5%A4%96/Go%E8%B0%B7%E6%AD%8C%E5%AE%89%E8%A3%85%E5%99%A8v4.8.5.apk)
+下载地址：[Go谷歌安装器v4.8.5](https://cloud.abcabc.cyou/alibaba/%E8%BD%AF%E4%BB%B6\_Android/Android\_%E5%9B%BD%E5%A4%96/Go%E8%B0%B7%E6%AD%8C%E5%AE%89%E8%A3%85%E5%99%A8v4.8.5.apk)
 
 安装好APP后，主界面点击一键安装即可
 

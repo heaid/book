@@ -32,4 +32,4 @@
 >
 >
 
-如果官网无法直接下载，这里有客服收集的安装包下载地址：[网盘下载地址](https://abcabc.cyou/#/1/main/%E8%BD%AF%E4%BB%B6\_Android/Android\_%E5%9B%BD%E5%A4%96)
+如果官网无法直接下载，这里有客服收集的安装包下载地址：[网盘下载地址](https://cloud.abcabc.cyou/alibaba/%E8%BD%AF%E4%BB%B6\_Android/Android\_%E5%9B%BD%E5%A4%96/)
