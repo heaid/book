@@ -20,4 +20,4 @@
 
 ### 视频教程
 
-{% embed url="https://abcabc.cyou/s/iatg52" %}
+{% embed url="https://cloud.abcabc.cyou/onedrivepublic/Cross%20Firewalls/NETV2video/clash.mp4" %}

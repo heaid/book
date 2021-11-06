@@ -52,17 +52,13 @@ Dd667788
 {% tab title="IOS14系统 视频教程" %}
 IOS14系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://abcabc.cyou/s/y24q9j" %}
-
-
+{% embed url="https://cloud.abcabc.cyou/onedrivepublic/Cross%20Firewalls/NETV2video/NETV2IOS14.mp4" %}
 {% endtab %}
 
 {% tab title="IOS13系统 视频教程" %}
 IOS13系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://abcabc.cyou/s/o4o2tp" %}
-
-
+{% embed url="https://cloud.abcabc.cyou/onedrivepublic/Cross%20Firewalls/NETV2video/NETV2IOS13.mp4" %}
 {% endtab %}
 {% endtabs %}
 
@@ -70,4 +66,4 @@ IOS13系统 安装视频教程（视频有语音讲解）
 
 软件使用视频教程（视频有语音讲解）
 
-{% embed url="https://abcabc.cyou/s/47qmod" %}
+{% embed url="https://cloud.abcabc.cyou/onedrivepublic/Cross%20Firewalls/NETV2video/shadowrocket.mp4" %}
