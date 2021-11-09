@@ -34,7 +34,7 @@
 
 返回到软件内，点击proflies\[配置]，在最上方的粘贴好订阅，最后点击 download \[下载]
 
-![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (56) (1).png>)
 
 
 
@@ -54,7 +54,7 @@
 
 最后1、打开设置，2网络，3网络代理，4手动，5，把HTTP和HTTPS代理设置上127.0.0.1端口7890。最后关闭
 
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60) (1).png>)
 
 5.测试连接，打开浏览器访问 [youtube.com](http://youtube.com) 如果可以正常访问说明已经设置成功
 

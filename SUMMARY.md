@@ -20,6 +20,7 @@
 
 * [电脑Clash图文教程\[推荐使用\]](windows-dian-nao/clash-for-windows.md)
 * [电脑Clash视频教程](windows-dian-nao/clash-shi-pin-jiao-cheng.md)
+* [Clash Windows故障处理](windows-dian-nao/clash-windows-gu-zhang-chu-li.md)
 * [电脑V2rayN图文教程](windows-dian-nao/v2rayn.md)
 * [电脑Netch游戏加速工具](windows-dian-nao/dian-nao-netch-you-xi-jia-su-gong-ju.md)
 
