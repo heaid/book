@@ -46,7 +46,9 @@ Dd667788
 {% endtab %}
 {% endtabs %}
 
-### 2. IOS14 和IOS13包括以往版本登录商店位置不同，请参考图片
+### 2. AppleID登录教程
+
+IOS14 和IOS13包括以往版本登录商店位置不同，请参考图片
 
 {% tabs %}
 {% tab title="IOS14系统" %}
@@ -70,7 +72,9 @@ Dd667788
 {% endtab %}
 {% endtabs %}
 
-### 3. 成功登录后，重新打开App Store商店。然后搜索shadowrocket下载（如图）
+### 3. 软件下载
+
+成功登录后，重新打开App Store商店。然后搜索shadowrocket下载（如图）
 
 ![](../.gitbook/assets/Xnip2021-02-28\_13-33-09.png)
 
