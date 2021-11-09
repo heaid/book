@@ -12,47 +12,47 @@
 
 ### 1. 软件主界面
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-21-14-317\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-21-14-317\_com.v2ray.ang.jpg)
 
 ### 2.导入订阅
 
 点击左上角呼出菜单，进入订阅设置
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-21-19-487\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-21-19-487\_com.v2ray.ang.jpg)
 
 点击右上角 ＋
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-21-28-453\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-21-28-453\_com.v2ray.ang.jpg)
 
 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-53-24-132\_com.android.chrome.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-53-24-132\_com.android.chrome.jpg)
 
 重新回到软件内，把订阅粘贴到地址里，备注随便填，最后右上角对勾保存
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-21-50-366\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-21-50-366\_com.v2ray.ang.jpg)
 
 ### 3. 更新订阅
 
 点击返回，回到主界面
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-21-57-860\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-21-57-860\_com.v2ray.ang.jpg)
 
 回到主界面后，点击右上角三个点，点击更新订阅
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-23-15-879\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-23-15-879\_com.v2ray.ang.jpg)
 
 ### 4.测试连通性
 
-### 更新后节点会显示，再次点击右上角，点击测试真连接
+更新后节点会显示，再次点击右上角，点击测试真连接
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-24-01-086\_com.v2ray.ang.jpg)
+![](<../.gitbook/assets/Screenshot\_2021-04-15-10-24-01-086\_com.v2ray.ang (1).jpg>)
 
 ### 5.选择节点，启动代理
 
 选择一个有数值的节点，选中后点击右下角圆圈按钮。启动后会变成绿色
 
-![](../.gitbook/assets/screenshot\_2021-04-15-11-17-07-277\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-11-17-07-277\_com.v2ray.ang.jpg)
 
 ### 6.测试连接
 
@@ -62,7 +62,7 @@
 
 主界面点击左上角呼出菜单，点击设置，选择预定义规则。（建议使用绕过大陆地址）
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-24-41-043\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-24-41-043\_com.v2ray.ang.jpg)
 
 > 全局：全部国内国外都走节点流量（有可能导致访问国内比较卡）
 >
@@ -72,4 +72,4 @@
 
 定期更新订阅，把最新的节点同步到手机上，（更新时建议先关闭代理，否则可能更新失败）
 
-![](../.gitbook/assets/screenshot\_2021-04-15-10-22-38-043\_com.v2ray.ang.jpg)
+![](../.gitbook/assets/Screenshot\_2021-04-15-10-22-38-043\_com.v2ray.ang.jpg)

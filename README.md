@@ -13,7 +13,7 @@ description: 强烈建议用户添加防失联的社交媒体
 ### 教程页面内有软地址件下载地址
 
 {% tabs %}
-{% tab title="安卓手机" %}
+{% tab title="安卓" %}
 ### 安卓手机推荐clash，如果使用途中有问题可以尝试其他版本
 
 {% content-ref url="an-zhuo-shou-ji/clash-for-android.md" %}
@@ -33,7 +33,7 @@ description: 强烈建议用户添加防失联的社交媒体
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="苹果手机/平板" %}
+{% tab title="苹果" %}
 {% content-ref url="ping-guo-shou-ji/shadowrocket.md" %}
 [shadowrocket.md](ping-guo-shou-ji/shadowrocket.md)
 {% endcontent-ref %}
@@ -43,7 +43,7 @@ description: 强烈建议用户添加防失联的社交媒体
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="Windows电脑" %}
+{% tab title="Windows" %}
 {% content-ref url="windows-dian-nao/clash-for-windows.md" %}
 [clash-for-windows.md](windows-dian-nao/clash-for-windows.md)
 {% endcontent-ref %}
@@ -61,7 +61,7 @@ description: 强烈建议用户添加防失联的社交媒体
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="Mac电脑" %}
+{% tab title="Mac" %}
 {% content-ref url="ping-guo-dian-nao/clashx.md" %}
 [clashx.md](ping-guo-dian-nao/clashx.md)
 {% endcontent-ref %}
@@ -71,13 +71,9 @@ description: 强烈建议用户添加防失联的社交媒体
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="Linux电脑" %}
+{% tab title="Linux" %}
 {% content-ref url="linux-xi-tong/clash-for-linux.md" %}
 [clash-for-linux.md](linux-xi-tong/clash-for-linux.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
