@@ -58,7 +58,7 @@ Dd667788
 
 2.登录时会提示升级账户安全，请选择其他选项，然后不升级
 
-![](../.gitbook/assets/app-store-3.jpg)
+![](<../.gitbook/assets/App Store 1.jpg>)
 {% endtab %}
 
 {% tab title="IOS13系统" %}
@@ -72,19 +72,19 @@ Dd667788
 
 ### 3. 成功登录后，重新打开App Store商店。然后搜索shadowrocket下载（如图）
 
-![打开商店最下面一排显示的菜单为英文](../.gitbook/assets/xnip2021-02-28\_13-33-09.png)
+![](../.gitbook/assets/Xnip2021-02-28\_13-33-09.png)
 
 ### 使用教程
 
 ### 1. 软件主界面
 
-![](../.gitbook/assets/img\_0f27be3a6c35-1.jpeg)
+![](../.gitbook/assets/IMG\_0F27BE3A6C35-1.jpeg)
 
 ### 2. 导入订阅（分为一键导入和手动导入）
 
 {% tabs %}
 {% tab title="一键导入订阅" %}
-### 2.1.1 打开Safari浏览器输入官网地址：[netv2.top](https://netv2.top) 点击一键订阅，导入到shadowrocket。
+2.1.1 打开Safari浏览器输入官网地址：[netv2.top](https://netv2.top) 点击一键订阅，导入到shadowrocket。
 
 {% hint style="info" %}
 注意：请使用Safari浏览器，不要在QQ内，微信内，百度内打开否则无法跳转，
@@ -94,33 +94,31 @@ Dd667788
 
 ![](../.gitbook/assets/4a207c697cc7134827cdeba54ad6c0a7.gif)
 
-### 2.1.2 导入后会自动跳转到小火箭shadowrocket内（注意：导入时，请保证右上角的连接按钮是关闭状态，如果导入后没显示地区节点，请后台强行关闭软件后重新打开软件就会显示了）
+2.1.2 导入后会自动跳转到小火箭shadowrocket内（注意：导入时，请保证右上角的连接按钮是关闭状态，如果导入后没显示地区节点，请后台强行关闭软件后重新打开软件就会显示了）
 
-![导入后点击连通性测试，节点的延迟数值就会显示了，有数值证明可用，但是数值和网速无关](../.gitbook/assets/img\_50618923a041-1.jpeg)
+
 {% endtab %}
 
 {% tab title="手动导入订阅" %}
 2.2.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
-![](../.gitbook/assets/img\_39616078e7ce-1.jpeg)
+![](../.gitbook/assets/IMG\_39616078E7CE-1.jpeg)
 
 2.2.2 然后打开小火箭右上角的加号（注意：导入时，请保证右上角的连接按钮是关闭状态，如果导入后没显示地区节点，请后台强行关闭软件后重新打开软件就会显示了）
 
-![](../.gitbook/assets/img\_e4329d7d2a52-1.jpeg)
+![](../.gitbook/assets/IMG\_E4329D7D2A52-1.jpeg)
 
 2.2.3 类型选择Subscribe，把订阅链接粘贴到URL里面，点击完成即可
 
-![](../.gitbook/assets/img\_c8c6a9f9cc87-1.jpeg)
+![](../.gitbook/assets/IMG\_C8C6A9F9CC87-1.jpeg)
 {% endtab %}
 {% endtabs %}
-
-####
 
 ### 3. 连接启动
 
 导入后，点击测试连通性，选择一个有效的（未超时）地区节点，然后点击右上角的连接按钮，第一次运行会弹出窗口，点击允许就可以了
 
-![](../.gitbook/assets/dmpr4x.jpg)
+![](../.gitbook/assets/dmPR4x.jpg)
 
 ### 4. 连接测试
 
@@ -146,6 +144,8 @@ Dd667788
 
 选择模式如果需要选择模式，请在主界面点击 （全局路由）
 
+![](../.gitbook/assets/ce53bd941b125612b7e79f0989a7ada.jpg)
+
 > 配置：代表规则模式，属于国内直连，国外自动走节点流量（建议使用）
 >
 > 代理：代表全局模式，全部国内国外都走节点流量（有可能导致访问国内比较卡）
@@ -153,5 +153,3 @@ Dd667788
 > 直连：代表直连模式，全部国内国外走不走节点流量（相当于没开小火箭）
 >
 > 场景：配置比较复杂不建议用。
-
-![](../.gitbook/assets/img\_2515.png)
