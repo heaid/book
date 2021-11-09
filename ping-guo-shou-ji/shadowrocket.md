@@ -56,9 +56,9 @@ Dd667788
 
 ![](../.gitbook/assets/33.gif)
 
-2.登录时会提示升级账户安全，请选择其他选项，然后不升级
+2.登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>
 
-![](<../.gitbook/assets/App Store 1.jpg>)
+![](<../.gitbook/assets/123123 (2).gif>)
 {% endtab %}
 
 {% tab title="IOS13系统" %}
@@ -116,7 +116,9 @@ Dd667788
 
 ### 3. 连接启动
 
-导入后，点击测试连通性，选择一个有效的（未超时）地区节点，然后点击右上角的连接按钮，第一次运行会弹出窗口，点击允许就可以了
+导入后，点击测试连通性，选择一个有效的（未超时）地区节点，然后点击右上角的连接按钮，<mark style="color:blue;">**第一次运行会弹出窗口，点击允许就可以了**</mark>
+
+![](../.gitbook/assets/photo\_2021-11-09\_16-45-57.jpg)
 
 ![](../.gitbook/assets/dmPR4x.jpg)
 
