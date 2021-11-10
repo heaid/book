@@ -6,15 +6,15 @@
 
 {% tabs %}
 {% tab title="版本1 v8a" %}
-[下载地址1](https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/CLASH/app-foss-arm64-v8a-release.apk)
+[下载地址1](https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/CLASH/cfa-2.4.14-foss-arm64-v8a-release.apk)
 
-[下载地址2](https://airnet.lanzoui.com/iAbHvq8jsub)
+[下载地址2](https://airnet.lanzoui.com/idZ9Iwd8wxi)
 {% endtab %}
 
 {% tab title="版本2 v7a" %}
-[下载地址1](https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/CLASH/app-foss-armeabi-v7a-release.apk)
+[下载地址1](https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/CLASH/cfa-2.4.14-foss-armeabi-v7a-release.apk)
 
-[下载地址2](https://airnet.lanzoui.com/id9q6q8jsxe)
+[下载地址2](https://airnet.lanzoui.com/i2n0ewd8zud)
 {% endtab %}
 {% endtabs %}
 
