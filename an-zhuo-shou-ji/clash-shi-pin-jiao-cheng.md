@@ -20,4 +20,4 @@
 
 ### 视频教程
 
-{% embed url="https://cloud.abcabc.cyou/onedrive2/Video/clash.mp4" %}
+{% embed url="https://cloud.abcabc.cyou/onedrive2/Video/clashforAndroid.mp4" %}
