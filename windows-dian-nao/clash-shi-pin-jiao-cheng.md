@@ -22,4 +22,4 @@
 
 （视频为安装版，最新提供的软件为绿色版解压即可使用）
 
-{% embed url="https://cloud.abcabc.cyou/onedrivepublic/Cross%20Firewalls/NETV2video/clashforwindows.mp4" %}
+{% embed url="https://cloud.abcabc.cyou/onedrive2/Video/clashforwindows.mp4" %}

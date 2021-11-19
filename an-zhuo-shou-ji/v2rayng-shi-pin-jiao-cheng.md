@@ -10,4 +10,4 @@
 
 ### 视频教程
 
-{% embed url="https://cloud.abcabc.cyou/onedrivepublic/Cross%20Firewalls/NETV2video/v2rayng.mp4" %}
+{% embed url="https://cloud.abcabc.cyou/onedrive2/Video/v2rayng.mp4" %}
