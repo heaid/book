@@ -33,6 +33,10 @@
 
 * [Clash for Linux使用教程](linux-xi-tong/clash-for-linux.md)
 
+## 安卓电视
+
+* [安卓电视机](an-zhuo-dian-shi/an-zhuo-dian-shi-ji.md)
+
 ## 网关模式
 
 ***
