@@ -35,7 +35,7 @@ Dd667788
 #### Apple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
 
 ```
-w1aeknrux077aeknr@163.com
+w1ahkrux14hknr@163.com
 ```
 
 #### Apple ID 密码（登录时如果提示密码错误，请注意密码有大小写）
