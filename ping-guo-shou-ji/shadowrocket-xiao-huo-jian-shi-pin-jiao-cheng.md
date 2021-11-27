@@ -46,17 +46,17 @@ Dd667788
 {% endtab %}
 {% endtabs %}
 
-### IOS14和IOS13以往版本 登录商店位置不同，请参考对应视频
+#### IOS14以上和IOS13以下版本 登录商店位置不同，请参考对应视频
 
 {% tabs %}
-{% tab title="IOS14系统 视频教程" %}
-IOS14系统 安装视频教程（视频有语音讲解）
+{% tab title="IOS14系统以上 视频教程" %}
+IOS14/15系统 安装视频教程（视频有语音讲解）
 
 {% embed url="https://cloud.abcabc.cyou/onedrive2/Video/NETV2IOS14.mp4" %}
 {% endtab %}
 
-{% tab title="IOS13系统 视频教程" %}
-IOS13系统 安装视频教程（视频有语音讲解）
+{% tab title="IOS13系统以下视频教程" %}
+IOS13以下系统 安装视频教程（视频有语音讲解）
 
 {% embed url="https://cloud.abcabc.cyou/onedrive2/Video/NETV2IOS13.mp4" %}
 {% endtab %}
