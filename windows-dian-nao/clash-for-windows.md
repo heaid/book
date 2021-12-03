@@ -16,7 +16,7 @@ description: Clash for Windows
 {% tab title="下载地址" %}
 [下载地址1](https://airnet.lanzouo.com/iC5Bvx74x3a)
 
-[下载地址2](https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/CLASH/Clash.for.Windows-0.17.0-ia32-netv2.7z)
+[下载地址2](https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/CLASH/Clash.for.Windows-0.17.0-ia32-netv2-B.zip)
 {% endtab %}
 {% endtabs %}
 
