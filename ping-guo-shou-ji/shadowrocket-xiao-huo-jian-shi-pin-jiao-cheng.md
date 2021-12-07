@@ -21,7 +21,7 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 #### ple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
 
 ```
-5ay9fn@sina.com
+w1aeknru047aehn@163.com
 ```
 
 #### Apple ID 密码（登录时如果提示密码错误，请注意密码有大小写）
