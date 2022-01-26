@@ -18,13 +18,13 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 
 {% tabs %}
 {% tab title="Apple ID 账号A" %}
-#### Apple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
+#### Apple ID账号（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
 
 ```
 w1ahnru147ehknux@163.com
 ```
 
-#### Apple ID 密码（登录时如果提示密码错误，请注意密码有大小写）
+#### Apple ID 密码（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
 
 ```
 Dd6677889
@@ -32,13 +32,13 @@ Dd6677889
 {% endtab %}
 
 {% tab title="Apple ID 账号B" %}
-#### Apple ID账号（登录时如果提示密码错误，请查看账号有没有多余空格）
+#### Apple ID账号（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
 
 ```
 w1ahoru147ae@163.com
 ```
 
-#### Apple ID 密码（登录时如果提示密码错误，请注意密码有大小写）
+#### Apple ID 密码（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
 
 ```
 Dd6677889
