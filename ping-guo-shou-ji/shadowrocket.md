@@ -35,13 +35,13 @@ Dd6677889
 #### Apple ID账号（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
 
 ```
-w1ahoru147ae@163.com
+w1aeknru047aehn@163.com
 ```
 
 #### Apple ID 密码（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
 
 ```
-Dd6677889
+Qwe33557799
 ```
 {% endtab %}
 {% endtabs %}
