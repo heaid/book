@@ -41,7 +41,7 @@ w1aeknru047aehn@163.com
 #### Apple ID 密码（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
 
 ```
-Qwe33557799
+Dd6677889900
 ```
 {% endtab %}
 {% endtabs %}
