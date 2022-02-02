@@ -20,6 +20,15 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 请给客服留下您的联系方式，客服看到会第一时间联系您。
 {% endhint %}
 
+{% hint style="info" %}
+客服联系方式
+
+1. 回到官网[Netv2.top](https://netv2.top) 网页左下角客服头像在线聊天
+2. 客服临时QQ 2689291946&#x20;
+3. 客服临时微信 netv2a&#x20;
+4. 官网登陆后点击未到工单，发送新工单
+{% endhint %}
+
 {% tabs %}
 {% tab title="Apple ID 账号A" %}
 {% hint style="info" %}
