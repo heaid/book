@@ -11,35 +11,27 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 ### 美区苹果ID账号密码
 
 {% hint style="info" %}
-<mark style="color:red;">登陆请务必选择其他选项不升级，请不要把公用账号绑定上您的手机</mark>
+<mark style="color:red;">鉴于有很多用户把公用账号绑定上自己手机。导致其他人无法使用。</mark>
+
+<mark style="color:red;">所以公用账号绑定了客服的手机，用户再使用时请向客服索要验证码</mark>
 {% endhint %}
 
 {% tabs %}
 {% tab title="Apple ID 账号A" %}
-#### ple ID账号（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
+{% hint style="info" %}
+<mark style="color:red;">联系上客服后，登陆账号时后点击未收到验证码，选择尾号为19的手机短信验证码</mark>
+{% endhint %}
+
+#### Apple ID账号
 
 ```
-w1ahnru147ehknux@163.com
+netv2@foxmail.com
 ```
 
-#### Apple ID 密码（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
+#### Apple ID 密码
 
 ```
-Dd66778899
-```
-{% endtab %}
-
-{% tab title="Apple ID 账号B" %}
-#### Apple ID账号（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
-
-```
-w1aeknru047aehn@163.com
-```
-
-#### Apple ID 密码（登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>）
-
-```
-Dd6677889900
+Tr998877
 ```
 {% endtab %}
 {% endtabs %}
