@@ -60,13 +60,13 @@ Tr998877
 {% tab title="IOS14系统以上 视频教程" %}
 IOS14/15系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://cloud.abcabc.cyou/onedrive2/Video/NETV2IOS14.mp4" %}
+{% embed url="https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/NETV2video/NETV2IOS14.mp4" %}
 {% endtab %}
 
 {% tab title="IOS13系统以下视频教程" %}
 IOS13以下系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://cloud.abcabc.cyou/onedrive2/Video/NETV2IOS13.mp4" %}
+{% embed url="https://cloud.abcabc.cyou/alibaba/Cross%20Firewalls/NETV2video/NETV2IOS13.mp4" %}
 {% endtab %}
 {% endtabs %}
 
