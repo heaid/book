@@ -10,41 +10,22 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 
 ### 1.美区苹果ID账号密码
 
-{% hint style="info" %}
-<mark style="color:red;">鉴于有很多用户把公用账号绑定上自己手机。导致其他人无法使用。</mark>
-
-<mark style="color:red;">所以公用账号绑定了客服的手机，用户再使用时请向客服索要验证码</mark>
-
-客服在线时间一般北京时间12:00 - 22:00。官网在线客服如果没有立即回应
-
-请给客服留下您的联系方式，客服看到会第一时间联系您。
-{% endhint %}
-
-{% hint style="info" %}
-客服联系方式
-
-1. 回到官网[Netv2.top](https://netv2.top) 网页左下角客服头像在线聊天
-2. 客服临时QQ 2689291946&#x20;
-3. 客服临时微信 netv2a&#x20;
-4. 官网登陆后点击未到工单，发送新工单
-{% endhint %}
-
 {% tabs %}
 {% tab title="Apple ID 账号A" %}
 {% hint style="info" %}
-<mark style="color:red;">联系上客服后，登陆账号时后点击未收到验证码，选择尾号为19的手机短信验证码</mark>
+登陆后提示验证码，请选择未收到验证码，选择短信验证码，然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)查看对应时间的验证码
 {% endhint %}
 
 #### Apple ID账号
 
 ```
-netv2@foxmail.com
+w1ahnru147ehknux@163.com
 ```
 
 #### Apple ID 密码
 
 ```
-Tr998877
+Dd6677889900
 ```
 {% endtab %}
 {% endtabs %}
