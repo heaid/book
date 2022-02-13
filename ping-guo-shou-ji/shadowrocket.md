@@ -12,8 +12,6 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 
 {% tabs %}
 {% tab title="Apple ID 账号A" %}
-
-
 #### Apple ID账号
 
 ```
@@ -31,7 +29,7 @@ Dd6677889900
 
 1. 请选择下方显示的【没有收到验证码？】
 2. 选择【发送短信给我，获取一条包含代码的短信。】
-3. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)
+3. 然后在打开网站[https://id.abcabc.cyou/](https://id.abcabc.cyou)
 4. 查看对应时间的最新验证码（没显示最新请刷新网页）
 {% endhint %}
 {% endtab %}
