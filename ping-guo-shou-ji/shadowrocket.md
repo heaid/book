@@ -13,8 +13,15 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 {% tabs %}
 {% tab title="Apple ID 账号A" %}
 {% hint style="info" %}
-登陆后提示验证码，请选择未收到验证码，选择短信验证码，然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)查看对应时间的验证码
+登陆后提示设备验证码，请按照下方步骤操作。
+
+1. 请选择下方显示的【没有收到验证码？】
+2. 选择【发送短信给我，获取一条包含代码的短信。】
+3. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)
+4. 查看对应时间的最新验证码
 {% endhint %}
+
+
 
 #### Apple ID账号
 
@@ -41,10 +48,6 @@ IOS14以上和IOS13以下版本登录商店位置不同，请参考图片
 1.打开应用商店后点击右上角的头像,翻到最下方点退出
 
 ![](../.gitbook/assets/33.gif)
-
-2.登录时会提示升级账户安全，请选择<mark style="color:red;">**其他选项**</mark>，然后<mark style="color:red;">**不升级**</mark>
-
-![](<../.gitbook/assets/123123 (2).gif>)
 {% endtab %}
 
 {% tab title="IOS13系统以下版本" %}
