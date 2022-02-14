@@ -23,6 +23,22 @@ w1ahnru147ehknux@163.com
 ```
 Dd6677889900
 ```
+{% endtab %}
+
+{% tab title="Apple ID 账号B" %}
+#### Apple ID账号
+
+```
+w1aeknru047aehn@163.com
+```
+
+#### Apple ID 密码
+
+```
+Dd5566778899
+```
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 登陆后提示设备验证码，请按照下方步骤操作。
@@ -32,8 +48,6 @@ Dd6677889900
 3. 然后在打开网站[https://id.abcabc.cyou/](https://id.abcabc.cyou)
 4. 查看对应时间的最新验证码（没显示最新请刷新网页）
 {% endhint %}
-{% endtab %}
-{% endtabs %}
 
 ### 2. AppleID登录教程
 
