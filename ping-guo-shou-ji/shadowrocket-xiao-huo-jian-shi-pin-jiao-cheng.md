@@ -52,6 +52,20 @@ netv2@foxmail.com
 Tr998877
 ```
 {% endtab %}
+
+{% tab title="Apple ID账号D" %}
+#### Apple ID账号
+
+```
+storeyz@foxmail.com
+```
+
+#### Apple ID密码
+
+```
+Dd667788
+```
+{% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
