@@ -11,20 +11,6 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 ### 1.美区苹果ID账号密码
 
 {% tabs %}
-{% tab title="Apple ID 账号A" %}
-#### Apple ID账号
-
-```
-w1ahnru147ehknux@163.com
-```
-
-#### Apple ID 密码
-
-```
-Dd6677889900
-```
-{% endtab %}
-
 {% tab title="Apple ID 账号B" %}
 #### Apple ID账号
 
