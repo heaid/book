@@ -50,7 +50,7 @@
 
 选择General \[常规] 菜单，\[start with linux] 启动系统代理
 
-![](<../.gitbook/assets/image (57).png>)
+![](<../.gitbook/assets/image (57) (1).png>)
 
 最后1、打开设置，2网络，3网络代理，4手动，5，把HTTP和HTTPS代理设置上127.0.0.1端口7890。最后关闭
 

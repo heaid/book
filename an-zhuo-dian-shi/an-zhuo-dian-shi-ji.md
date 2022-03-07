@@ -1,11 +1,12 @@
 # 安卓电视机
 
-以下方法经过测试，可以正常使用。
+{% embed url="https://github.com/Kr328/ClashForAndroid/releases" %}
 
-1. 下载好艾蒙顿应用市场，艾蒙顿官网[https://app.emotn.com/](https://app.emotn.com)
-2. 在电脑上下载APP后导入电视安装艾蒙顿应用市场。
-3. 在应用市场里搜索Clash下载安装
-4. 然后用电脑打开官网主页[https://netv2.top/](https://netv2.top)
-5. 登录后点击一键订阅复制订阅地址。
-6. 想办法把订阅地址复制到电视上或者用手动打字的方式添加到订阅
-7. 具体导入方法请参见安卓版clash图文教程
+请打开上方的clash 链接，因为电视各种型号的不同有可能版本适配不一样
+
+![](<../.gitbook/assets/image (57).png>)
+
+建议全部下载下后倒入电视挨个安装测试。
+
+安装成功后请按照安卓手机教程倒入使用
+
