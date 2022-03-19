@@ -8,6 +8,19 @@ description: 本教程适用iphone 和ipad
 
 Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行下载，所以要切换国外ID将商店切换到国外，这边提供了美区ID进行免费下载。
 
+{% hint style="info" %}
+注意：请登陆App Store，不要登陆网页和icloud否则登陆助手内无法收到登陆验证码
+{% endhint %}
+
+{% hint style="info" %}
+登陆后提示设备验证码，请按照下方步骤操作。注意：如果直接显示【一条包含验证码的信息发送至(\*\*\*)\*\*\*\*\*\*xx】直接看第3步，
+
+1. 请选择下方显示的【没有收到验证码？】
+2. 选择【发送验证码至(\*\*\*)\*\*\*\*\*\*xx】
+3. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)
+4. 查看相应账号的最新时间的验证码
+{% endhint %}
+
 ### 1.美区苹果ID账号密码
 
 {% tabs %}
@@ -53,19 +66,6 @@ Dd667788
 ```
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-注意：请登陆App Store，不要登陆网页和icloud否则登陆助手内无法收到登陆验证码
-{% endhint %}
-
-{% hint style="info" %}
-登陆后提示设备验证码，请按照下方步骤操作。注意：如果直接显示【一条包含验证码的信息发送至(\*\*\*)\*\*\*\*\*\*xx】直接看第3步，
-
-1. 请选择下方显示的【没有收到验证码？】
-2. 选择【发送验证码至(\*\*\*)\*\*\*\*\*\*xx】
-3. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)
-4. 查看相应账号的最新时间的验证码
-{% endhint %}
 
 ### 2. AppleID登录教程
 
