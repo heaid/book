@@ -15,10 +15,21 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 {% hint style="info" %}
 登陆后提示设备验证码，请按照下方步骤操作。注意：如果直接显示【一条包含验证码的信息发送至(\*\*\*)\*\*\*\*\*\*xx】直接看第3步，
 
-1. 请选择下方显示的【没有收到验证码？】
-2. 选择【发送验证码至(\*\*\*)\*\*\*\*\*\*xx】
-3. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)
-4. 查看相应账号的最新时间的验证码
+1. 如果如下图显示，请选择下方【没有收到验证码？】
+
+![](<../.gitbook/assets/image (59).png>)
+
+2\. 选择【发送验证码至(\*\*\*)\*\*\*\*\*\*xx】
+
+![](<../.gitbook/assets/image (63).png>)
+
+![](<../.gitbook/assets/image (60).png>)
+
+3\. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)
+
+4\. 查看相应账号的最新时间的验证码
+
+![](<../.gitbook/assets/image (58).png>)
 {% endhint %}
 
 ### 1.美区苹果ID账号密码
