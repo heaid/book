@@ -67,7 +67,7 @@ Tr998877
 #### Apple ID账号
 
 ```
-storeyz@foxmail.com
+w1behkoux14@163.com
 ```
 
 #### Apple ID密码
