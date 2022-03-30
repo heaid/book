@@ -10,4 +10,4 @@
 
 **win7位置**
 
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60) (1).png>)
