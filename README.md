@@ -6,7 +6,7 @@ description: 强烈建议用户添加防失联的社交媒体
 
 > 请收藏永久发布地址：
 >
-> [https://netv2.github.io](./#jiao-cheng-ye-mian-nei-you-ruan-di-zhi-jian-xia-zai-di-zhi)
+> [https://netv2.github.io](https://netv2.github.io)
 >
 > [https://vpn-cca.pages.dev](https://vpn-cca.pages.dev)
 
