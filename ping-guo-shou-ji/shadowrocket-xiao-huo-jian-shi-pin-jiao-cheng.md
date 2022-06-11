@@ -25,7 +25,7 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 
 ![](<../.gitbook/assets/image (60).png>)
 
-3\. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)
+3\. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou/)
 
 4\. 查看相应账号的最新时间的验证码
 
@@ -39,13 +39,13 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 #### Apple ID账号
 
 ```
-netv2@foxmail.com
+w1bekorux17bbekor@163.com
 ```
 
 #### Apple ID 密码
 
 ```
-Tr009988
+Dd667788
 ```
 {% endtab %}
 

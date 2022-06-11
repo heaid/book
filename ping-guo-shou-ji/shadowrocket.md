@@ -25,7 +25,7 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 
 ![](<../.gitbook/assets/image (60).png>)
 
-3\. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou)
+3\. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou/)
 
 4\. 查看相应账号的最新时间的验证码
 
@@ -39,13 +39,13 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 #### Apple ID账号
 
 ```
-netv2@foxmail.com
+w1bekorux17bbekor@163.com
 ```
 
 #### Apple ID 密码
 
 ```
-Tr009988
+Dd667788
 ```
 {% endtab %}
 
@@ -102,7 +102,7 @@ IOS14以上和IOS13以下版本登录商店位置不同，请参考图片
 
 {% tabs %}
 {% tab title="一键导入订阅" %}
-2.1.1 打开Safari浏览器输入官网地址：[netv2.top](https://netv2.top) 点击一键订阅，导入到shadowrocket。
+2.1.1 打开Safari浏览器输入官网地址：[netv2.top](https://netv2.top/) 点击一键订阅，导入到shadowrocket。
 
 {% hint style="info" %}
 注意：请使用Safari浏览器，不要在QQ内，微信内，百度内打开否则无法跳转，
@@ -142,7 +142,7 @@ IOS14以上和IOS13以下版本登录商店位置不同，请参考图片
 
 ### 4. 连接测试
 
-连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开[www.YouTube.com](https://youtube.com/)测试一下，如果油管可以打开就说明已经成功
 
 ### 5. 更新订阅（更新时请，建议关闭小火箭启动按钮）
 
