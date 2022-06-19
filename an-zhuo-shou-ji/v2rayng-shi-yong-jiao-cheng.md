@@ -26,7 +26,7 @@
 
 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
-![](../.gitbook/assets/Screenshot\_2021-04-15-10-53-24-132\_com.android.chrome.jpg)
+![](<../.gitbook/assets/多多 2022-06-06 14.04.29.2022-06-19 14\_06\_09.gif>)
 
 重新回到软件内，把订阅粘贴到地址里，备注随便填，最后右上角对勾保存
 
