@@ -53,13 +53,13 @@ Tr998877
 #### Apple ID账号
 
 ```
-w1behkoux14@163.com
+w1bekorux17bbekor@163.com
 ```
 
 #### Apple ID密码
 
 ```
-Dd667788
+Tr998877
 ```
 {% endtab %}
 {% endtabs %}
