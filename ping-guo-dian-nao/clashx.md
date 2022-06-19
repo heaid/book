@@ -36,11 +36,7 @@
 {% tab title="一键导入" %}
 3.1.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，导入到clashx
 
-![](<../.gitbook/assets/1 (1).gif>)
-
-3.1.2导入后会弹出对话框，点击确定
-
-![](../.gitbook/assets/xnip2021-02-28\_17-14-36.png)
+![](<../.gitbook/assets/屏幕录制2022-06-19 15.00.26.2022-06-19 15\_04\_59.gif>)
 {% endtab %}
 
 {% tab title="手动导入" %}
