@@ -38,19 +38,15 @@ description: Clash for Android
 <mark style="color:red;">注意：推荐使用自带浏览器，不要在QQ内，微信内，百度内打开否则无法跳转</mark>，
 {% endhint %}
 
-![](../.gitbook/assets/b25dcc0ac3287ce051a5f6f31f64137f.gif)
-
-
+![](<../.gitbook/assets/1655618238802731.2022-06-19 14\_01\_55.gif>)
 {% endtab %}
 
 {% tab title="手动导入" %}
 #### 2.2.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址 <a href="#2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di" id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di"></a>
 
-### &#x20;<a href="#2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di" id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-di"></a>
+![](<../.gitbook/assets/多多 2022-06-06 14.04.29.2022-06-19 14\_06\_09.gif>)
 
-![](../.gitbook/assets/gaitubao\_Flb9rxhI8HmM3nqh9h6oJ6Ca0BpZ.jpg)
-
-### 2.2.2 打开Clash软件主界面的配置→新配置→Url 来进入下面的界面，手动把订阅链接粘贴到URL里）
+#### 2.2.2 打开Clash软件主界面的配置→新配置→Url 来进入下面的界面，手动把订阅链接粘贴到URL里）
 
 ![](../.gitbook/assets/Screenshot\_2021-10-26-10-50-08-721\_com.github.kr328.clash.foss.png)
 {% endtab %}
