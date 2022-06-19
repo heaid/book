@@ -44,7 +44,7 @@ description: Clash for Windows
 注意：请使用电脑的浏览器，比如Chrome，QQ浏览器等等，电脑微信客户端内置的浏览器无法自动跳转导入）
 {% endhint %}
 
-![](../.gitbook/assets/1.gif)
+![](<../.gitbook/assets/1 (1).gif>)
 
 3.1.2 显示出新的配置文件，新出现的配置文件，选中后会有绿色标记,然后把更新间隔设置为1.
 
@@ -54,7 +54,7 @@ description: Clash for Windows
 {% tab title="手动导入" %}
 3.2.1  打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址。
 
-![](../.gitbook/assets/image-1-dd.png)
+![](../.gitbook/assets/123.gif)
 
 3.2.2 然后粘贴到配置页面最上面的文本框里，点击下载。导入后。会显示绿色的成功，然后鼠标点击一下新出现的配置文件，选中后会变成深色，未选中是浅色
 
@@ -76,7 +76,7 @@ description: Clash for Windows
 
 ### 6. 测试连接
 
-连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开[www.YouTube.com](https://youtube.com/)测试一下，如果油管可以打开就说明已经成功
 
 ### **7. 手动更新订阅（**将网站上最新的节点同步到软件内**）**
 

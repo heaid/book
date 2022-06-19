@@ -32,7 +32,7 @@ description: Clash for Android
 
 {% tabs %}
 {% tab title="一键导入" %}
-#### 2.1.1 打开浏览器输入官网地址：[netv2.top](https://netv2.top) 点击一键订阅，导入到clash for Android。
+#### 2.1.1 打开浏览器输入官网地址：[netv2.top](https://netv2.top/) 点击一键订阅，导入到clash for Android。
 
 {% hint style="info" %}
 <mark style="color:red;">注意：推荐使用自带浏览器，不要在QQ内，微信内，百度内打开否则无法跳转</mark>，
@@ -70,7 +70,7 @@ description: Clash for Android
 
 ### 5.连接测试
 
-连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开[www.YouTube.com](https://youtube.com/)测试一下，如果油管可以打开就说明已经成功
 
 ### 6.选择模式
 

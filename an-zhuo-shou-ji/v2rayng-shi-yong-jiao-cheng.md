@@ -56,7 +56,7 @@
 
 ### 6.测试连接
 
-连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开[www.YouTube.com](https://youtube.com/)测试一下，如果油管可以打开就说明已经成功
 
 ### 7.选择模式
 

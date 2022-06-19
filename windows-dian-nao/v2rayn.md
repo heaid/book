@@ -32,7 +32,7 @@ windows 7 系统需要提前安装好[Microsoft .NET Framework 4.6.2](https://ww
 
 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
-![](../.gitbook/assets/image-1-dd.png)
+![](../.gitbook/assets/123.gif)
 
 在点击订阅，订阅设置。
 
@@ -68,7 +68,7 @@ windows 7 系统需要提前安装好[Microsoft .NET Framework 4.6.2](https://ww
 
 ### 7. 测试连接
 
-连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开[www.YouTube.com](https://youtube.com/)测试一下，如果油管可以打开就说明已经成功
 
 ### 8. 手动更新订阅
 

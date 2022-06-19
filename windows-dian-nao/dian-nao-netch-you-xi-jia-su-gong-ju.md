@@ -20,11 +20,11 @@ Netch 是一款运行在 Windows 系统上的开源游戏加速工具，简单�
 
 软件下载后请全部解压到磁盘内（建议D盘），如果没有解压软件，请提前安装解压软件（比如7z，好压，360压缩等）
 
-![](<../.gitbook/assets/image (31).png>)
+<img src="../.gitbook/assets/image (31).png" alt="" data-size="original">
 
 ### 2. 导入订阅，打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
-![](<../.gitbook/assets/image (36).png>)
+![](../.gitbook/assets/123.gif)
 
 ### 3. 订阅，管理订阅链接
 

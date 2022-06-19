@@ -50,7 +50,7 @@
 {% tab title="手动导入" %}
 3.2.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
-![](../.gitbook/assets/image-1-dd.png)
+![](../.gitbook/assets/123.gif)
 
 3.2.2 然后点击电脑右上角的小猫咪图标，选择配置，托管配置，管理。
 
@@ -61,8 +61,6 @@
 3.2.3 打开后会弹出对话框，把订阅地址复制到Url里面，Name随意填写。最后点击确定
 
 ![](../.gitbook/assets/xnip2021-02-28\_17-14-36.png)
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -84,7 +82,7 @@
 
 ### 7. 测试连接
 
-连接后，可以打开[www.YouTube.com](https://youtube.com)测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开[www.YouTube.com](https://youtube.com/)测试一下，如果油管可以打开就说明已经成功
 
 ### 8. 手动更新订阅
 

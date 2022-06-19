@@ -28,7 +28,7 @@
 
 3、导入订阅
 
-打开官网 [netv2.top](http://netv2.top) 登录后点击复制订阅
+打开官网 [netv2.top](http://netv2.top/) 登录后点击复制订阅
 
 ![](<../.gitbook/assets/image (58) (1).png>)
 
@@ -56,7 +56,7 @@
 
 ![](<../.gitbook/assets/image (60) (1) (1).png>)
 
-5.测试连接，打开浏览器访问 [youtube.com](http://youtube.com) 如果可以正常访问说明已经设置成功
+5.测试连接，打开浏览器访问 [youtube.com](http://youtube.com/) 如果可以正常访问说明已经设置成功
 
 ![](<../.gitbook/assets/image (55).png>)
 
