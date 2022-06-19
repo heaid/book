@@ -134,9 +134,7 @@ IOS14以上和IOS13以下版本登录商店位置不同，请参考图片
 
 导入后，点击测试连通性，选择一个有效的（未超时）地区节点，然后点击右上角的连接按钮，<mark style="color:blue;">**第一次运行会弹出窗口，点击允许就可以了**</mark>
 
-![](../.gitbook/assets/photo\_2021-11-09\_16-45-57.jpg)
-
-![](../.gitbook/assets/dmPR4x.jpg)
+![](<../.gitbook/assets/RPReplay\_Final1655619261.2022-06-19 14\_21\_35.gif>)
 
 ### 4. 连接测试
 
