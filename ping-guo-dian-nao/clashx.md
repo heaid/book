@@ -36,15 +36,11 @@
 {% tab title="一键导入" %}
 3.1.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，导入到clashx
 
-![](../.gitbook/assets/aiiu8p.png)
+![](<../.gitbook/assets/1 (1).gif>)
 
 3.1.2导入后会弹出对话框，点击确定
 
 ![](../.gitbook/assets/xnip2021-02-28\_17-14-36.png)
-
-
-
-
 {% endtab %}
 
 {% tab title="手动导入" %}
@@ -63,6 +59,8 @@
 ![](../.gitbook/assets/xnip2021-02-28\_17-14-36.png)
 {% endtab %}
 {% endtabs %}
+
+
 
 等待更新完毕，更新中变为日期后就完成了，然后关闭对话框
 
