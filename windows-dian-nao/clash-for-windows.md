@@ -58,7 +58,7 @@ description: Clash for Windows
 
 3.2.2 然后粘贴到配置页面最上面的文本框里，点击下载。导入后。会显示绿色的成功，然后鼠标点击一下新出现的配置文件，选中后会变成深色，未选中是浅色
 
-![](<../.gitbook/assets/image-1- (1).jpg>)
+![](../.gitbook/assets/32134.gif)
 {% endtab %}
 {% endtabs %}
 
