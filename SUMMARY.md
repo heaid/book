@@ -14,6 +14,7 @@
 
 ## 苹果手机/平板 <a href="#ping-guo-shou-ji" id="ping-guo-shou-ji"></a>
 
+* [苹果stash（Clash）](ping-guo-shou-ji/ping-guo-stashclash.md)
 * [苹果Shadowrocket小火箭图文教程](ping-guo-shou-ji/shadowrocket.md)
 * [苹果Shadowrocket小火箭视频教程](ping-guo-shou-ji/shadowrocket-xiao-huo-jian-shi-pin-jiao-cheng.md)
 
