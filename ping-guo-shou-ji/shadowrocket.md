@@ -4,7 +4,7 @@ description: 本教程适用iphone 和ipad
 
 # 苹果Shadowrocket小火箭图文教程
 
-### 下载软件
+### **下载软件**
 
 Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行下载，所以要切换国外ID将商店切换到国外，这边提供了美区ID进行免费下载。
 

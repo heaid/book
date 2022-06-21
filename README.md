@@ -41,6 +41,10 @@ description: 强烈建议用户添加防失联的社交媒体
 {% content-ref url="ping-guo-shou-ji/shadowrocket-xiao-huo-jian-shi-pin-jiao-cheng.md" %}
 [shadowrocket-xiao-huo-jian-shi-pin-jiao-cheng.md](ping-guo-shou-ji/shadowrocket-xiao-huo-jian-shi-pin-jiao-cheng.md)
 {% endcontent-ref %}
+
+{% content-ref url="ping-guo-shou-ji/ping-guo-stashclash.md" %}
+[ping-guo-stashclash.md](ping-guo-shou-ji/ping-guo-stashclash.md)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="Windows" %}
