@@ -118,11 +118,9 @@ IOS14以上和IOS13以下版本登录商店位置不同，请参考图片
 
 2.2.2 然后打开小火箭右上角的加号（注意：导入时，请保证右上角的连接按钮是关闭状态，如果导入后没显示地区节点，请后台强行关闭软件后重新打开软件就会显示了）
 
-![](../.gitbook/assets/IMG\_E4329D7D2A52-1.jpeg)
-
 2.2.3 类型选择Subscribe，把订阅链接粘贴到URL里面，点击完成即可
 
-![](../.gitbook/assets/IMG\_C8C6A9F9CC87-1.jpeg)
+![](<../.gitbook/assets/1shadowrocket 手动daoru.2022-06-24 18\_49\_23.gif>)
 {% endtab %}
 {% endtabs %}
 
