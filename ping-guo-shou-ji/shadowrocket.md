@@ -12,23 +12,11 @@ Shadowrocket（俗称小火箭）售价3美元且只能在国外App Store进行�
 注意：请登陆App Store，不要登陆网页和icloud否则登陆助手内无法收到登陆验证码
 {% endhint %}
 
-{% hint style="info" %}
-登陆后提示设备验证码，请按照下方步骤操作。注意：如果直接显示【一条包含验证码的信息发送至(\*\*\*)\*\*\*\*\*\*xx】直接看第3步，
+1.打开应用商店后点击右上角的头像,翻到最下方点退出
 
-1. 如果如下图显示，请选择下方【没有收到验证码？】
+![](../.gitbook/assets/33.gif)
 
-2\. 选择【发送验证码至(\*\*\*)\*\*\*\*\*\*xx】
-
-![](<../.gitbook/assets/RPReplay\_Final1656051143.2022-06-24 14\_39\_57.gif>)
-
-3\. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou/)
-
-4\. 查看相应账号的最新时间的验证码
-
-![](<../.gitbook/assets/image (58).png>)
-{% endhint %}
-
-### 1.美区苹果ID账号密码
+#### 美区苹果ID账号密码
 
 {% tabs %}
 {% tab title="Apple ID 账号C" %}
@@ -60,19 +48,21 @@ Tr998877
 {% endtab %}
 {% endtabs %}
 
-### 2. AppleID登录教程
+{% hint style="info" %}
+登陆后提示设备验证码，请按照下方步骤操作。注意：如果直接显示【一条包含验证码的信息发送至(\*\*\*)\*\*\*\*\*\*xx】直接看第3步，
 
-IOS14以上和IOS13以下版本登录商店位置不同，请参考图片
+1. 如果如下图显示，请选择下方【没有收到验证码？】
 
-{% tabs %}
-{% tab title="IOS" %}
-#### **IOS** 位置
+2\. 选择【发送验证码至(\*\*\*)\*\*\*\*\*\*xx】
 
-1.打开应用商店后点击右上角的头像,翻到最下方点退出
+![](<../.gitbook/assets/RPReplay\_Final1656051143.2022-06-24 14\_39\_57.gif>)
 
-![](../.gitbook/assets/33.gif)
-{% endtab %}
-{% endtabs %}
+3\. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou/)
+
+4\. 查看相应账号的最新时间的验证码
+
+![](<../.gitbook/assets/image (58).png>)
+{% endhint %}
 
 ### 3. 软件下载
 
