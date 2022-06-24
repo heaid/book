@@ -23,13 +23,9 @@ Stash售价3美元且只能在国外App Store进行下载，所以要切换国�
 
 1. 如果如下图显示，请选择下方【没有收到验证码？】
 
-![](<../.gitbook/assets/image (59).png>)
-
 2\. 选择【发送验证码至(\*\*\*)\*\*\*\*\*\*xx】
 
-![](<../.gitbook/assets/image (63).png>)
-
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/RPReplay\_Final1656051143.2022-06-24 14\_39\_57.gif>)
 
 3\. 然后在打开登陆助手[https://id.abcabc.cyou/](https://id.abcabc.cyou/)
 
