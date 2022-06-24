@@ -65,20 +65,12 @@ Tr998877
 IOS14以上和IOS13以下版本登录商店位置不同，请参考图片
 
 {% tabs %}
-{% tab title="IOS14系统以上版本" %}
-#### **IOS 14/15**位置
+{% tab title="IOS" %}
+#### **IOS** 位置
 
 1.打开应用商店后点击右上角的头像,翻到最下方点退出
 
 ![](../.gitbook/assets/33.gif)
-{% endtab %}
-
-{% tab title="IOS13系统以下版本" %}
-#### IOS 13和以往版本位置
-
-点击设置→往下翻到隐私下面点击iTunes与App Store→然后退出你的ID→登录上面提供的美区ID
-
-![](../.gitbook/assets/img\_2504.png)
 {% endtab %}
 {% endtabs %}
 
