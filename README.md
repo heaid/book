@@ -38,8 +38,8 @@ description: 强烈建议用户添加防失联的社交媒体
 [shadowrocket.md](ping-guo-shou-ji/shadowrocket.md)
 {% endcontent-ref %}
 
-{% content-ref url="ping-guo-shou-ji/ping-guo-stashclash.md" %}
-[ping-guo-stashclash.md](ping-guo-shou-ji/ping-guo-stashclash.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 {% endtab %}
 
