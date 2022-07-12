@@ -37,13 +37,11 @@ Dd667788
 #### Apple ID账号
 
 ```
-netv2@foxmail.com
 ```
 
 #### Apple ID 密码
 
 ```
-Meiyisi123
 ```
 {% endtab %}
 
