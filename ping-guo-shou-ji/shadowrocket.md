@@ -65,13 +65,13 @@ Dd667788
 #### Apple ID账号
 
 ```
-w1bekory147b@163.com
+netv2@foxmail.com
 ```
 
 #### Apple ID 密码
 
 ```
-Tr998877
+Meiyisi123
 ```
 {% endtab %}
 {% endtabs %}
