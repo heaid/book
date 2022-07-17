@@ -34,8 +34,6 @@ Dd667788
 {% endtab %}
 
 {% tab title="Apple ID账号D" %}
-####
-
 #### Apple ID账号
 
 ```
@@ -45,9 +43,6 @@ w1bekorux17bbekor@163.com
 #### Apple ID密码
 
 ```
-Tr998877Apple ID账号
-w1bekorux17bbekor@163.com
-Apple ID密码
 Tr998877
 ```
 {% endtab %}
